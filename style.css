@@ -29,6 +29,9 @@ body {
 }
 
 .form input[type="image"] {
+	padding: 0px 40px; 
+    border-radius: 5px;
 	height: 41px;
 	width:auto;
+    text-align: center;
 }
