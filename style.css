@@ -5,12 +5,12 @@ body {
 	color: #ffffff;
 }
 
-.main{
+.main{  position: relative;
 	margin: 0 auto;
 	width:1024px;
 	max-width: 100%;
 	height: auto;
-	z-index: 2;
+	
 }
 
 .form {
@@ -22,9 +22,9 @@ body {
 	height: 70px;
 	text-align: center;
 	position: absolute;
-    	right:20%;
-    	top: 100%;
-    	z-index: 1;
+    	top:25%;
+   	right:25%
+
 }
 
 
