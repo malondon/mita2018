@@ -13,8 +13,6 @@ body {
 }
 
 .form {
-	background-color: rgba(32,32,32,0.4);
-	color: #fefefe;
 	font-size: 24px;
 	line-height: 3em;
 	margin: 20px;
@@ -28,4 +26,9 @@ body {
 	font-size: 1em;
 	width: 200px;
 	height: 35px;
+}
+
+.form input[type="image"] {
+	height: 35px;
+	width:auto;
 }
