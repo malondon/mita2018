@@ -5,6 +5,13 @@ body {
 	color: #ffffff;
 }
 
+.main{
+	margin: 0 auto;
+	width:1024px;
+	max-width: 100%;
+	height: auto;
+}
+
 .form {
 	background-color: rgba(32,32,32,0.4);
 	color: #fefefe;
